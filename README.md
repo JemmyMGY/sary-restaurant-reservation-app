@@ -2,21 +2,21 @@
 This project consists of 3 apps as following
 # 1. Employees manager
 ### APIs:
->- [x] Add employee (given employee_id, employee_name, employee_password, employee_role)
->- [x] Delete employee (giver employee_id)
->- [x] Get all employees
+- [x] Add employee (given employee_id, employee_name, employee_password, employee_role)
+- [x] Delete employee (giver employee_id)
+- [x] Get all employees
 # 2. Tables manager
 ### APIs:
->- [x] Add table (given table_id, seats_number)
->- [x] Delete table (given table_id)
->- [x] Get all tables
+- [x] Add table (given table_id, seats_number)
+- [x] Delete table (given table_id)
+- [x] Get all tables
 # 3. Reservations manager
 ### APIs:
->- [x] Get Available timeslots for each table(given seats_number)
->- [x] Reserve a timeslot (given start_time, end_time, table_id)  
->- [x] Get today's reservations
->- [x] Get all reservations
->- [x] Delete reservation (givem reservation_id)
+- [x] Get Available timeslots for each table(given seats_number)
+- [x] Reserve a timeslot (given start_time, end_time, table_id)  
+- [x] Get today's reservations
+- [x] Get all reservations
+- [x] Delete reservation (givem reservation_id)
 
 
 # Not Finished yet
