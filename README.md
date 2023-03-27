@@ -20,11 +20,11 @@ This project consists of 3 apps as following
 
 
 # Not Finished yet
-1. Authentication wasn't added but i can take some time to study about it and apply it if i still have time 
-2. Testing wasn't perfect, i just used some test date and tested some corner cases but i havn't provided dedicated APIs for testing 
+1. Authentication wasn't added but i can take some time to study about it and apply it if i still have time, i still need to read more about this topic.
+2. Testing wasn't perfect, i just used some test data and also tested some corner cases but i haven't provided dedicated APIs for testing.
 
 # Notes
-- Algorithm: I prefer to discuss my algorithms over writing notes but if you want it i can put some extra time writing each API's algorithm and how i approached the problem 
-- Postman Collection/Environment are included with name "sary-restaurant-reservation-app.postman_collection".
-- I had some health issues so technically i have started working on the task on Saturday 26-03-2023 so i ran out of time and almost worked 2 days on the task
-- I'm using Django (V 4.1.2) and PostgreSQL (V 15.2)
+- Algorithm: I prefer to discuss my algorithms over writing notes but if you want it i can put some extra time writing each API's algorithm and how i approached the problem.
+- Postman Collection/Environment are included with name. "sary-restaurant-reservation-app.postman_collection".
+- I had some health issues so technically i have started working on the task on Saturday 26-03-2023 so i ran out of time and almost worked 2 days on the task.
+- I'm using Django (V 4.1.2) and PostgreSQL (V 15.2).
